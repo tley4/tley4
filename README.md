@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Tabitha</h1>
-<h3 align="left">A final-year Bachelor of Computer and Information Sciences student at Auckland University of Technology</h3>
-<h3 align="left">An eager Software Developer</h3>
+<h3 align="left">Final-year Bachelor of Computer and Information Sciences student at Auckland University of Technology</h3>
+<h3 align="left">Aspiring Software Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
