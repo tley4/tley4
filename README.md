@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Tabitha</h1>
 <h3 align="left">Final-year Bachelor of Computer and Information Sciences student at Auckland University of Technology</h3>
+<h3 align="left">Website Content Strategy and Development Support Intern at William's Property Services Group</h3>
 <h3 align="left">Aspiring Software Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
